@@ -1,8 +1,3 @@
-"""
-Giao diện GUI phân loại động vật - Phiên bản CPU-Optimized
-Đồng bộ với train_model.py (CPU, /255, IMG_SIZE=64)
-"""
-
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 from PIL import Image, ImageTk
